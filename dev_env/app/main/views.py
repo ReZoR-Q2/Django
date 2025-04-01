@@ -5,4 +5,4 @@ def index(request):
     return HttpResponse('Home page')
     
 def about(request):
-    return HttpResponse('Home page')
+    return HttpResponse('About page')
